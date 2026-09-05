@@ -1,4 +1,4 @@
-# 📱 WhatsApp AI Reminder Assistant
+# 📱 WhatsApp Reminder Assistant
 
 A high-performance, asynchronous backend built with **FastAPI** and **Twilio** to schedule and deliver reminders via **WhatsApp**.  
 It features a persistent database layer and a **smart-resume scheduler** that guarantees delivery even after server restarts.
